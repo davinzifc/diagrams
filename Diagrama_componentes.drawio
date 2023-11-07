@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T22:21:35.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zknqBUUfU_K4XFoQjTWQ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T22:23:08.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RFHUkDKVeTfQ_TqCQeSD" version="22.0.8" type="github">
   <diagram name="Page-1" id="3SnuVNbN8GcKIh2ZC8Z5">
     <mxGraphModel dx="2074" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -705,6 +705,12 @@
         </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-38" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;¿Se&lt;span style=&quot;color: rgb(68, 68, 68); text-align: start;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(68, 68, 68); text-align: start;&quot;&gt;creó&lt;/span&gt;&lt;span style=&quot;color: rgb(68, 68, 68); text-align: start;&quot;&gt; correctamente?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1790" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-44" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;Creación&lt;span style=&quot;color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);&quot;&gt; de un usuario&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="20" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-45" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="41" width="270" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
