@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:48:29.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ebGMbLKS4RTwHE_bkr39" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T00:58:54.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="T5ko77NQZVRveE3B7urw" version="22.0.8" type="github">
   <diagram name="Page-1" id="3SnuVNbN8GcKIh2ZC8Z5">
     <mxGraphModel dx="2022" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -776,18 +776,6 @@
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-60" value="Validación del rol del usuario que actualiza" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=14;strokeWidth=2;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="2176" y="641.25" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ml0yyeHJuEiZfWphdUPq-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-62" target="Ml0yyeHJuEiZfWphdUPq-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2136" y="760" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ml0yyeHJuEiZfWphdUPq-66" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml0yyeHJuEiZfWphdUPq-65">
-          <mxGeometry x="-0.1752" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-62" target="Ml0yyeHJuEiZfWphdUPq-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -800,6 +788,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-62" target="Ml0yyeHJuEiZfWphdUPq-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-106" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ml0yyeHJuEiZfWphdUPq-105">
+          <mxGeometry x="-0.303" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-62" value="&lt;font&gt;¿Tiene el rol de actualizar datos restringidos?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="2196" y="720" width="80" height="80" as="geometry" />
         </mxCell>
@@ -807,9 +807,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-64" value="Actualización de datos" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=14;strokeWidth=2;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="2076" y="855" width="120" height="60" as="geometry" />
+          <mxGeometry x="2091" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ml0yyeHJuEiZfWphdUPq-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-67" target="Ml0yyeHJuEiZfWphdUPq-64">
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-67" target="Ml0yyeHJuEiZfWphdUPq-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-67" value="Proceso de modificacion de datos" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=14;strokeWidth=2;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
@@ -899,8 +899,14 @@
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-97" value="Formateador de errores." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1946" y="1195" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ml0yyeHJuEiZfWphdUPq-101" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=14;strokeWidth=2;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-101" value="Proceso de relacionamiento de contraseñas" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;arcSize=14;strokeWidth=2;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="2170" y="1082.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ml0yyeHJuEiZfWphdUPq-104" target="Ml0yyeHJuEiZfWphdUPq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-104" value="Encriptamiento de la contraseña" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="2101" y="855" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
