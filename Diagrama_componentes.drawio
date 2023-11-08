@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T01:29:13.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vgut8hApxik0Ghhd7hug" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:30:47.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WCLARoIAXZgDga-rB3RG" version="22.0.8" type="github">
   <diagram name="Page-1" id="3SnuVNbN8GcKIh2ZC8Z5">
-    <mxGraphModel dx="4924" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-137" value="Response" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1126" y="1827.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ml0yyeHJuEiZfWphdUPq-138" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;log-in&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ml0yyeHJuEiZfWphdUPq-138" value="Creación&lt;span style=&quot;border-color: var(--border-color); font-size: 13px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;de una prueba&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1557.5" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ml0yyeHJuEiZfWphdUPq-139" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
